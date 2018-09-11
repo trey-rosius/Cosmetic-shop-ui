@@ -4,7 +4,7 @@ A Simple cosmetic shop ui, created in a very short time.
 
 ## If you love it, i'll be happy to receive a star from you. 
 
-![alt text](https://raw.githubusercontent.com/trey-rosius/projectname/Cosmetic-shop-ui/images/coded.jpeg)
+https://raw.githubusercontent.com/trey-rosius/projectname/Cosmetic-shop-ui/images/coded.jpeg
 
 It's sketched equivalence
 ![alt text](https://raw.githubusercontent.com/trey-rosius/projectname/Cosmetic-shop-ui/images/sketch.jpeg)
