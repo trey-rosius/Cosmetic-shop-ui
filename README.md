@@ -7,7 +7,7 @@ A Simple cosmetic shop ui, created in a very short time.
 https://raw.githubusercontent.com/trey-rosius/projectname/Cosmetic-shop-ui/images/coded.jpeg
 
 It's sketched equivalence
-![alt text](https://raw.githubusercontent.com/trey-rosius/projectname/Cosmetic-shop-ui/images/sketch.jpeg)
+![alt text](https://raw.githubusercontent.com/trey-rosius/Cosmetic-shop-ui/images/sketch.jpeg)
 
 I used this beautiful carousel slider plugin. It's really amazing
 https://pub.dartlang.org/packages/carousel_slider
